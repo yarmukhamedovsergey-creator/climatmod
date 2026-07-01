@@ -1,0 +1,15 @@
+{
+  "status.climatezones.normal": "NORMAL",
+  "status.climatezones.cold": "COLD",
+  "status.climatezones.freezing": "FREEZING",
+  "status.climatezones.warm": "WARM",
+  "status.climatezones.overheating": "OVERHEATING",
+  "status.climatezones.heatstroke": "HEATSTROKE",
+
+  "death.attack.hypothermia": "%1$s froze to death from hypothermia",
+  "death.attack.heatstroke": "%1$s died of heatstroke",
+
+  "subtitle.climatezones.ambient.cold": "Cold wind howls",
+  "subtitle.climatezones.ambient.hot": "Desert heat shimmers",
+  "subtitle.climatezones.ambient.wind": "Wind gusts"
+}

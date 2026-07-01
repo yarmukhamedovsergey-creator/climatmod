@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "climatezones",
+  "version": "${version}",
+  "name": "Climate Zones",
+  "description": "Custom coordinate-based climate zones with temperature, survival mechanics and visual effects.",
+  "authors": ["ClimateZones"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.climatezones.ClimateZonesMod"],
+    "client": ["com.climatezones.ClimateZonesClient"]
+  },
+  "mixins": [
+    "climatezones.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

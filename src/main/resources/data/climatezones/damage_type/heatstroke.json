@@ -1,0 +1,7 @@
+{
+  "message_id": "heatstroke",
+  "exhaustion": 0.1,
+  "scaling": "never",
+  "effects": "burning",
+  "death_message_type": "default"
+}

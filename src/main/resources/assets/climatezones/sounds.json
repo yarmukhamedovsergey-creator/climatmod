@@ -1,0 +1,23 @@
+{
+  "ambient.cold": {
+    "sounds": [
+      "minecraft:ambient/weather/rain",
+      "minecraft:ambient/cave/cave_ambience"
+    ],
+    "subtitle": "subtitle.climatezones.ambient.cold"
+  },
+  "ambient.hot": {
+    "sounds": [
+      "minecraft:block/sand/break",
+      "minecraft:ambient/nether_wastes/additions"
+    ],
+    "subtitle": "subtitle.climatezones.ambient.hot"
+  },
+  "ambient.wind": {
+    "sounds": [
+      "minecraft:ambient/weather/rain",
+      "minecraft:entity/phantom/flap"
+    ],
+    "subtitle": "subtitle.climatezones.ambient.wind"
+  }
+}
